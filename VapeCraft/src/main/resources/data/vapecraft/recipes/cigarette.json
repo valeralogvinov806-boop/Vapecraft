@@ -1,0 +1,15 @@
+{
+  "pattern": [
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "vapecraft:cigarette",
+    "count": 6
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " G ",
+    " B ",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "vapecraft:e_liquid",
+    "count": 2
+  }
+}

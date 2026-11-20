@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vapecraft:empty_cartridge"
+    },
+    {
+      "item": "vapecraft:e_liquid"
+    }
+  ],
+  "result": {
+    "item": "vapecraft:filled_cartridge"
+  }
+}

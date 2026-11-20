@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    " G ",
+    "G G",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "vapecraft:empty_cartridge",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " II",
+    "IRI",
+    " II"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "vapecraft:coil",
+    "count": 2
+  }
+}

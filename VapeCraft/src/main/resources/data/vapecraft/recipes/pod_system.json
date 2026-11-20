@@ -1,0 +1,27 @@
+{
+  "pattern": [
+    "ICI",
+    "BEB",
+    " R "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "vapecraft:filled_cartridge"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    },
+    "E": {
+      "item": "vapecraft:e_liquid"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "vapecraft:pod_system"
+  }
+}

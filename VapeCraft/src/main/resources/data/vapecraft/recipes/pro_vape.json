@@ -1,0 +1,30 @@
+{
+  "pattern": [
+    "GCG",
+    "BEB",
+    "IRI"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "vapecraft:filled_cartridge"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "E": {
+      "item": "vapecraft:e_liquid"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "vapecraft:pro_vape"
+  }
+}
